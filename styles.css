@@ -456,11 +456,12 @@ width: 76px;
 
  #HISTORY 
 { 
-	
+
 	left: 248px;
     /* top: 1023px; */
     position: absolute;
 } 
+
 #History1{
 	position: relative;
     top: -125px;
